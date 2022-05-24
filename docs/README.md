@@ -12,4 +12,4 @@
 
 7. 출처: https://www.youtube.com/watch?v=s1B3kadwhFU&t=1s
 
-8. 주소:
+8. 주소: https://hyundai-sangho.github.io/TodoList_svelte.js/
